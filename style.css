@@ -3,6 +3,7 @@
     padding: 0;
     border: 0;
     text-align: center;
+    borde-box: border;
 }
 
 header {
@@ -42,4 +43,5 @@ header .container nav ul {
 .product-list {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    griud-gap: 20px
 }
