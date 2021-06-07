@@ -7,3 +7,7 @@ function number() {
   var x = 'prime';
   return x;
 }
+const modal = document.querySelector('modal');
+modal.addEventListener('click', function(e){
+  document.style.backgroundColor = 'skyblue';
+})
