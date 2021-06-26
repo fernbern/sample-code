@@ -24,6 +24,7 @@ body {
     border-radius: 20px;
     padding: 20px;
     font-size: 150%;
+    letter-spacing: 5px;
 }
 body {
     margin: 40px;
@@ -152,6 +153,10 @@ a {
     border-radius: 5px;
     padding: 20px;
     font-size: 150%;
+}
+.btn:hover {
+    background-color: #333;
+    color: #777;
 }
 .a {
     grid-column: 1 / 3;
